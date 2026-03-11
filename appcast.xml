@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>锁定输入法</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 12 Mar 2026 01:17:01 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>锁定输入法 1.0</h2>
+<ul>
+<li>提供菜单栏输入法锁定能力</li>
+<li>支持选择锁定目标输入法</li>
+<li>支持开机自启与手动检查更新</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/zeoi3/inputLock-updates/releases/download/v1.0/%E9%94%81%E5%AE%9A%E8%BE%93%E5%85%A5%E6%B3%95-1.0.zip" sparkle:edSignature="cEwobE/xLm1sRsyyHCIMJ0QYa9S/HYcSDGD7dOGH+L/KO36bRArqGHyU3QFBbNwQlUQ2mqJZX6k5ozvdblBICw==" length="1722671" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
