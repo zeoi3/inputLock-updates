@@ -15,7 +15,7 @@
 <li>支持开机自启与手动检查更新</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/zeoi3/inputLock-updates/releases/download/v1.0/%E9%94%81%E5%AE%9A%E8%BE%93%E5%85%A5%E6%B3%95-1.0.zip" sparkle:edSignature="cEwobE/xLm1sRsyyHCIMJ0QYa9S/HYcSDGD7dOGH+L/KO36bRArqGHyU3QFBbNwQlUQ2mqJZX6k5ozvdblBICw==" length="1722671" type="application/octet-stream"/>
+            <enclosure url="https://github.com/zeoi3/inputLock-updates/releases/download/v1.0/inputLock-1.0.zip" sparkle:edSignature="cEwobE/xLm1sRsyyHCIMJ0QYa9S/HYcSDGD7dOGH+L/KO36bRArqGHyU3QFBbNwQlUQ2mqJZX6k5ozvdblBICw==" length="1722671" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
