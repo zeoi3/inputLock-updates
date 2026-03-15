@@ -3,6 +3,22 @@
     <channel>
         <title>锁定输入法</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Sun, 15 Mar 2026 22:16:33 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>锁定输入法 1.1</h2>
+<ul>
+<li>新增菜单栏图标隐藏功能，减少常驻打扰</li>
+<li>从启动台、Spotlight 或 Finder 手动再次打开应用时，会自动恢复菜单栏入口</li>
+<li>优化开发者其他工具展示，补充 OneDock AI 与 FocusPixels</li>
+<li>更新检查改为每次启动时后台检查一次</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/zeoi3/inputLock-updates/releases/download/v1.1/inputLock-1.1.zip" length="2583590" type="application/octet-stream" sparkle:edSignature="qZk3l/DDBf3ox3ZlkPhhwrEzjQvXwdD9fROX9cpeCT/lvETG8a70C1TVo7sLmaFzTgVGPMTuShEQEO121K5SCA=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Thu, 12 Mar 2026 01:17:01 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
