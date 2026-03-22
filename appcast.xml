@@ -3,6 +3,21 @@
     <channel>
         <title>锁定输入法</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Mon, 23 Mar 2026 01:30:16 +0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>锁定输入法 1.2</h2>
+<ul>
+<li>记住上次锁定的输入法状态，重新打开应用后会自动恢复</li>
+<li>未处于锁定状态时，不再在启动后强行锁定当前输入法</li>
+<li>如果之前锁定的输入法已经不可用，会自动清理失效状态，避免卡在异常配置上</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/zeoi3/inputLock-updates/releases/download/v1.2/inputLock-1.2.zip" length="2588125" type="application/octet-stream" sparkle:edSignature="mjVsyd6lCgAHFxj351EbGXTsRhSK32PUrnLOZx+0MW4TUGvsOA8kEaQstreSiy4FQLNCcF6Cct1Y2rHDmuT9Bg=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Sun, 15 Mar 2026 22:16:33 +0800</pubDate>
             <sparkle:version>2</sparkle:version>
