@@ -15,7 +15,7 @@
 <li>如果之前锁定的输入法已经不可用，会自动清理失效状态，避免卡在异常配置上</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/zeoi3/inputLock-Releases/releases/download/v1.2/inputLock-1.2.zip" length="2588125" type="application/octet-stream" sparkle:edSignature="FiDkFd9UivQYZi78inA0++tBT2q9qeqFNA9Z80Sjx6Ly2j6wneJbvsMoXU5KkwDQEN32T8Z5M+B2et4hdRNQDw=="/>
+            <enclosure url="https://github.com/zeoi3/inputLock-updates/releases/download/v1.2/inputLock-1.2.zip" length="2588129" type="application/octet-stream" sparkle:edSignature="TNA2hmYIgiTYhA2JKGwTs1IugSBAAtW8qGZ77xSAPfyabLWZJpRhlBFjbRR9Xp697lvWYPuEha51ECOYIFyoCQ=="/>
         </item>
         <item>
             <title>1.1</title>
